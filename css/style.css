@@ -1,0 +1,21 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+.categoriaA{
+    margin: 20px;
+    padding: 10px;
+    background-color: green;
+}
+.categoriaB {
+    margin: 20px;
+    padding: 10px;
+    background-color: yellow;
+}
+.categoriaC {
+    margin: 20px;
+    padding: 10px;
+    background-color: tomato;
+}
